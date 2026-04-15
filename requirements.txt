@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+wfdb
+matplotlib
+pandas
+streamlit
+pyngrok
+nest-asyncio
+plotly
